@@ -1,4 +1,4 @@
-# 👋 Hola, soy Gabriel
+# Gabriel
 
 💻 Desarrollador de Software | Estudiante de Ingeniería en Sistemas
 
