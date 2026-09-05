@@ -1,4 +1,10 @@
-# Gabriel
+<h1 align="center">👋 Hola, soy Gabriel</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=💻+Desarrollador+de+Software;🎓+Estudiante+de+Ingeniería+en+Sistemas;🚀+C%23+%7C+Oracle+%7C+Java+%7C+PHP;🐳+Aprendiendo+Docker+y+Compiladores" alt="Typing SVG" />
+  </a>
+</p>
 
 💻 Desarrollador de Software | Estudiante de Ingeniería en Sistemas
 
