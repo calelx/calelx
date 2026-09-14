@@ -1,45 +1,32 @@
-<p align="center">
-  <img src="./assets/terminal.gif" width="100%" alt="Terminal animada de Andres Graviel Ixcotoyac Calel" />
-</p>
+<h1 align="center">👋 Hola, soy Gabriel</h1>
 
-<p align="center">
-  <strong>Software Developer · Systems Engineering Student</strong>
-</p>
 
-<p align="center">
-  <a href="https://github.com/calelx/portafolio">Portafolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/andres-graviel-ixcotoyac-calel-882888377/">LinkedIn</a>
-</p>
 
----
+💻 Desarrollador de Software | Estudiante de Ingeniería en Sistemas
 
-## `$ about`
+Actualmente trabajo y estudio tecnologías como:
 
-Desarrollador de software con experiencia en aplicaciones empresariales, lógica de negocio, bases de datos e interfaces web. Actualmente estudio Ingeniería en Sistemas y continúo ampliando mi stack con tecnologías modernas.
+- C# / ASP.NET MVC
+- Oracle / PL/SQL
+- Java
+- PHP
+- JavaScript
+- Docker
+- Git
 
-## `$ stack`
+## 🚀 Actualmente
 
-```text
-backend      C# · ASP.NET MVC · Node.js
-database     Oracle · PL/SQL · PostgreSQL
-frontend     JavaScript · React · HTML · CSS
-tools        Git · Docker · Linux
-```
+- 🔭 Trabajando en desarrollo de aplicaciones y bases de datos
+- 🌱 Aprendiendo sobre compiladores
+- 🐳 Mejorando mis conocimientos de Docker
+- 🎓 Estudiando Ingeniería en Sistemas
 
-## `$ building`
+## 🛠️ Tecnologías
 
-**Sistema de gestión para barbería**
-
-Aplicación para administrar citas, clientes, servicios y la operación diaria de una barbería.
-
-`React` `Node.js` `PostgreSQL` `Tailwind CSS`
-
-## `$ connect`
-
-- [LinkedIn](https://www.linkedin.com/in/andres-graviel-ixcotoyac-calel-882888377/)
-- [Portafolio profesional](https://github.com/calelx/portafolio)
-
----
-
-<p align="center"><code>learn → build → improve</code></p>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
