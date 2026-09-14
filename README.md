@@ -1,88 +1,102 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Banner de Andres Graviel Ixcotoyac Calel" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=B7F34A&center=true&vCenter=true&width=760&lines=Hola%2C+soy+Andres+Graviel+Ixcotoyac+Calel;Desarrollador+de+Software;C%23+%7C+Oracle+%7C+JavaScript;Construyendo+soluciones+que+aportan+valor" alt="Presentación animada" />
+<p align="center">
+  <a href="https://github.com/calelx/portafolio"><b>🌐 Portafolio</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/andres-graviel-ixcotoyac-calel-882888377/"><b>💼 LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/calelx"><b>💻 GitHub</b></a>
+</p>
 
-Desarrollador de software y estudiante de Ingeniería en Sistemas
+<br>
 
-Construyo aplicaciones confiables, simplifico procesos complejos y continúo aprendiendo nuevas tecnologías para convertir ideas en soluciones reales.
+## 👋 Sobre mí
 
+Soy desarrollador de software y estudiante de **Ingeniería en Sistemas** en Guatemala. Tengo experiencia construyendo y manteniendo aplicaciones empresariales, trabajando desde la lógica de negocio y las bases de datos hasta la interfaz que utiliza el usuario.
 
+```text
+Me gusta entender el problema, simplificar el proceso y construir una solución confiable.
+```
 
+### En qué estoy trabajando
 
-</div>
+| Actualmente | Objetivo |
+|:--|:--|
+| 🧩 Portafolio profesional | Presentar proyectos completos y documentados |
+| ✂️ Sistema para barbería | React + Node.js + PostgreSQL + Tailwind CSS |
+| 🎓 Ingeniería en Sistemas | Fortalecer arquitectura, desarrollo y buenas prácticas |
 
-Sobre mí
+<br>
 
-Desarrollador con experiencia en aplicaciones empresariales y sistemas institucionales.
+## 🧰 Stack principal
 
-Experiencia trabajando con lógica de negocio, bases de datos, integraciones y reportes.
+<p align="center">
+  <kbd>C#</kbd>&nbsp;
+  <kbd>ASP.NET MVC</kbd>&nbsp;
+  <kbd>Oracle</kbd>&nbsp;
+  <kbd>PL/SQL</kbd>&nbsp;
+  <kbd>JavaScript</kbd>&nbsp;
+  <kbd>Node.js</kbd>&nbsp;
+  <kbd>React</kbd>&nbsp;
+  <kbd>PostgreSQL</kbd>
+</p>
 
-Estudiante de Ingeniería en Sistemas.
+<p align="center">
+  <kbd>HTML</kbd>&nbsp;
+  <kbd>CSS</kbd>&nbsp;
+  <kbd>Tailwind CSS</kbd>&nbsp;
+  <kbd>Git</kbd>&nbsp;
+  <kbd>GitHub</kbd>&nbsp;
+  <kbd>Docker</kbd>&nbsp;
+  <kbd>Linux</kbd>
+</p>
 
-Actualmente fortaleciendo mis conocimientos en React, Node.js y PostgreSQL.
+<details>
+  <summary><b>Ver más sobre mi experiencia técnica</b></summary>
+  <br>
 
-Construyendo un sistema real para la gestión de una barbería.
+- Desarrollo y mantenimiento de sistemas institucionales.
+- Consultas, procedimientos almacenados y validaciones con Oracle PL/SQL.
+- Aplicaciones web con C#, ASP.NET MVC y JavaScript.
+- Integraciones, generación de reportes y automatización de procesos.
+- Entornos de desarrollo con Git, Docker, Linux y WSL.
 
-Ubicado en Guatemala.
+</details>
 
-Tecnologías
+<br>
 
-Backend y bases de datos
+## 🚀 Proyectos
 
+### Portafolio profesional
 
+Mi espacio para presentar experiencia, tecnologías y proyectos reales mediante una interfaz moderna y adaptable.
 
+`HTML` `CSS` `JavaScript` `Vercel`
 
+→ [Explorar el repositorio](https://github.com/calelx/portafolio)
 
+### Sistema de gestión para barbería
 
+Aplicación en planificación para administrar citas, clientes, servicios y la operación diaria de una barbería.
 
+`React` `Node.js` `PostgreSQL` `Tailwind CSS`
 
+<br>
 
-Frontend
+## 🤝 Conectemos
 
+Estoy abierto a oportunidades, colaboración y proyectos donde pueda aportar experiencia y continuar creciendo profesionalmente.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/andres-graviel-ixcotoyac-calel-882888377/"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/calelx"><b>@calelx</b></a>
+</p>
 
+<br>
 
-
-
-
-Herramientas
-
-
-
-
-
-
-Proyectos destacados
-
-Portafolio profesional
-
-Sitio web personal donde presento mi experiencia, habilidades técnicas y proyectos.
-
-Ver repositorio
-
-Sistema de gestión para barbería
-
-Aplicación en desarrollo para administrar citas, clientes, servicios y la operación diaria de una barbería.
-
-React · Node.js · PostgreSQL · Tailwind CSS
-
-Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=calelx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B7F34A&text_color=C9D1D9&icon_color=6DE5D2&locale=es" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calelx&layout=compact&hide_border=true&bg_color=0D1117&title_color=B7F34A&text_color=C9D1D9&locale=es" alt="Lenguajes más utilizados" />
-
-</div>
-
-Contacto
-
-LinkedIn: Andres Graviel Ixcotoyac Calel
-
-GitHub: @calelx
-
-<div align="center">
-
-Aprender, construir y mejorar continuamente
-
-</div>
+<p align="center">
+  <sub>Aprender · Construir · Mejorar</sub>
+</p>
