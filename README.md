@@ -1,40 +1,33 @@
 <div align="center">
 
-Portafolio Profesional
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=B7F34A&center=true&vCenter=true&width=760&lines=Hola%2C+soy+Andres+Graviel+Ixcotoyac+Calel;Desarrollador+de+Software;C%23+%7C+Oracle+%7C+JavaScript;Construyendo+soluciones+que+aportan+valor" alt="Presentación animada" />
 
-Andres Graviel Ixcotoyac Calel
+Desarrollador de software y estudiante de Ingeniería en Sistemas
 
-Portafolio web personal para presentar mi experiencia, habilidades técnicas y proyectos como desarrollador de software.
-
+Construyo aplicaciones confiables, simplifico procesos complejos y continúo aprendiendo nuevas tecnologías para convertir ideas en soluciones reales.
 
 
 
 
 </div>
 
-Sobre el proyecto
+Sobre mí
 
-Este portafolio fue creado para reunir en un solo lugar mi perfil profesional, experiencia, tecnologías y proyectos. Su diseño busca comunicar de forma clara mi enfoque como desarrollador y evolucionará conforme construya nuevas soluciones.
+Desarrollador con experiencia en aplicaciones empresariales y sistemas institucionales.
 
-Características
+Experiencia trabajando con lógica de negocio, bases de datos, integraciones y reportes.
 
-Diseño moderno y adaptable a computadoras, tabletas y teléfonos.
+Estudiante de Ingeniería en Sistemas.
 
-Navegación sencilla entre las secciones principales.
+Actualmente fortaleciendo mis conocimientos en React, Node.js y PostgreSQL.
 
-Presentación de experiencia y habilidades técnicas.
+Construyendo un sistema real para la gestión de una barbería.
 
-Sección preparada para incorporar proyectos reales.
-
-Enlaces directos a GitHub y LinkedIn.
-
-Animaciones suaves y compatibilidad con navegación por teclado.
-
-Publicación automática mediante GitHub y Vercel.
+Ubicado en Guatemala.
 
 Tecnologías
 
-<div align="left">
+Backend y bases de datos
 
 
 
@@ -43,65 +36,53 @@ Tecnologías
 
 
 
-</div>
 
-Estructura del proyecto
+Frontend
 
-Portafolio/
-├── index.html    # Contenido y estructura
-├── styles.css    # Diseño y adaptación responsive
-└── script.js     # Navegación y animaciones
 
-Ejecución local
 
-No es necesario instalar dependencias.
 
-Clona el repositorio:
 
-git clone https://github.com/calelx/portafolio.git
 
-Ingresa a la carpeta que contiene el portafolio:
 
-cd portafolio/Portafolio
+Herramientas
 
-Abre index.html en tu navegador.
 
-También puedes utilizar la extensión Live Server de Visual Studio Code.
 
-Publicación
 
-El proyecto está conectado con Vercel. Cada cambio enviado a la rama main genera automáticamente una nueva publicación.
 
-git add .
-git commit -m "Actualizar portafolio"
-git push
 
-Próximo proyecto
+Proyectos destacados
+
+Portafolio profesional
+
+Sitio web personal donde presento mi experiencia, habilidades técnicas y proyectos.
+
+Ver repositorio
 
 Sistema de gestión para barbería
 
-Aplicación para administrar citas, clientes, servicios y la operación diaria de una barbería.
+Aplicación en desarrollo para administrar citas, clientes, servicios y la operación diaria de una barbería.
 
-Tecnologías planificadas:
+React · Node.js · PostgreSQL · Tailwind CSS
 
-React
-
-Node.js
-
-PostgreSQL
-
-Tailwind CSS
-
-Autor
-
-Andres Graviel Ixcotoyac Calel
-
-GitHub: @calelx
-
-LinkedIn: Andres Graviel Ixcotoyac Calel
+Estadísticas de GitHub
 
 <div align="center">
 
-Desarrollado con dedicación y aprendizaje continuo.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=calelx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B7F34A&text_color=C9D1D9&icon_color=6DE5D2&locale=es" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calelx&layout=compact&hide_border=true&bg_color=0D1117&title_color=B7F34A&text_color=C9D1D9&locale=es" alt="Lenguajes más utilizados" />
+
+</div>
+
+Contacto
+
+LinkedIn: Andres Graviel Ixcotoyac Calel
+
+GitHub: @calelx
+
+<div align="center">
+
+Aprender, construir y mejorar continuamente
 
 </div>
