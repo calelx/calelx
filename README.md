@@ -1,32 +1,107 @@
-<h1 align="center">👋 Hola, soy Gabriel</h1>
+<div align="center">
+
+Portafolio Profesional
+
+Andres Graviel Ixcotoyac Calel
+
+Portafolio web personal para presentar mi experiencia, habilidades técnicas y proyectos como desarrollador de software.
 
 
 
-💻 Desarrollador de Software | Estudiante de Ingeniería en Sistemas
 
-Actualmente trabajo y estudio tecnologías como:
 
-- C# / ASP.NET MVC
-- Oracle / PL/SQL
-- Java
-- PHP
-- JavaScript
-- Docker
-- Git
+</div>
 
-## 🚀 Actualmente
+Sobre el proyecto
 
-- 🔭 Trabajando en desarrollo de aplicaciones y bases de datos
-- 🌱 Aprendiendo sobre compiladores
-- 🐳 Mejorando mis conocimientos de Docker
-- 🎓 Estudiando Ingeniería en Sistemas
+Este portafolio fue creado para reunir en un solo lugar mi perfil profesional, experiencia, tecnologías y proyectos. Su diseño busca comunicar de forma clara mi enfoque como desarrollador y evolucionará conforme construya nuevas soluciones.
 
-## 🛠️ Tecnologías
+Características
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Diseño moderno y adaptable a computadoras, tabletas y teléfonos.
+
+Navegación sencilla entre las secciones principales.
+
+Presentación de experiencia y habilidades técnicas.
+
+Sección preparada para incorporar proyectos reales.
+
+Enlaces directos a GitHub y LinkedIn.
+
+Animaciones suaves y compatibilidad con navegación por teclado.
+
+Publicación automática mediante GitHub y Vercel.
+
+Tecnologías
+
+<div align="left">
+
+
+
+
+
+
+
+
+</div>
+
+Estructura del proyecto
+
+Portafolio/
+├── index.html    # Contenido y estructura
+├── styles.css    # Diseño y adaptación responsive
+└── script.js     # Navegación y animaciones
+
+Ejecución local
+
+No es necesario instalar dependencias.
+
+Clona el repositorio:
+
+git clone https://github.com/calelx/portafolio.git
+
+Ingresa a la carpeta que contiene el portafolio:
+
+cd portafolio/Portafolio
+
+Abre index.html en tu navegador.
+
+También puedes utilizar la extensión Live Server de Visual Studio Code.
+
+Publicación
+
+El proyecto está conectado con Vercel. Cada cambio enviado a la rama main genera automáticamente una nueva publicación.
+
+git add .
+git commit -m "Actualizar portafolio"
+git push
+
+Próximo proyecto
+
+Sistema de gestión para barbería
+
+Aplicación para administrar citas, clientes, servicios y la operación diaria de una barbería.
+
+Tecnologías planificadas:
+
+React
+
+Node.js
+
+PostgreSQL
+
+Tailwind CSS
+
+Autor
+
+Andres Graviel Ixcotoyac Calel
+
+GitHub: @calelx
+
+LinkedIn: Andres Graviel Ixcotoyac Calel
+
+<div align="center">
+
+Desarrollado con dedicación y aprendizaje continuo.
+
+</div>
